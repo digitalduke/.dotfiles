@@ -1,0 +1,19 @@
+set morespace
+
+set tabstospaces
+set trimblanks
+
+set softwrap
+set atblanks
+set constantshow
+
+## UX:
+set smooth
+
+## Extra files:
+set backup
+set backupdir "~/.nano-backups"
+set historylog
+
+## Key bindings.
+bind ^Q exit all
