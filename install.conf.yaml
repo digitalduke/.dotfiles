@@ -8,6 +8,7 @@
     ~/.nanorc: .nanorc
     ~/.gitignore: .gitignore
     ~/.config/fish/config.fish: config.fish 
+    ~/.face: assets/.face
 
 - create:
     - ~/downloads
