@@ -9,6 +9,7 @@
     ~/.gitignore: .gitignore
     ~/.config/fish/config.fish: config.fish 
     ~/.face: assets/.face
+    ~/.background: assets/.background
 
 - create:
     - ~/downloads
