@@ -4,10 +4,10 @@
   - [git submodule update --init --recursive, Installing submodules]
 
 - link:
-    ~/.curlrc: .curlrc
-    ~/.nanorc: .nanorc
-    ~/.gitignore: .gitignore
-    ~/.config/fish/config.fish: config.fish 
+    ~/.curlrc: configs/.curlrc
+    ~/.nanorc: configs/.nanorc
+    ~/.gitignore: configs/.gitignore
+    ~/.config/fish/config.fish: configs/config.fish 
     ~/.face: assets/.face
     ~/.background: assets/.background
 
