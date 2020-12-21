@@ -1,2 +1,3 @@
 .idea/
 /**/contrib/*.http
+__pycache__/
