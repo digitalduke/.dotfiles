@@ -12,4 +12,4 @@
     ~/.background: assets/.background
 
 - create:
-    - ~/downloads
+    - ~/.nano-backups
