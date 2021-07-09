@@ -1,5 +1,11 @@
 [user]
 	email = digitalduke@gmail.com
-	name = digitalduke
+	name = George P.
 [core]
         excludesfile = ~/.gitignore
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2
+[user]
+        signingkey = 4E5F841836689C86C8D0FCEAA38712490DB795E9
