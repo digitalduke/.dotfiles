@@ -11,6 +11,7 @@
     ~/.config/fish/config.fish: configs/config.fish 
     ~/.bgr_cockpit.jpeg: assets/.bgr_cockpit.jpeg
     ~/.bgr_throne.jpeg: assets/.bgr_throne.jpeg
+    ~/.editorconfig: configs/.editorconfig
 
 - create:
     - ~/.nano-backups
