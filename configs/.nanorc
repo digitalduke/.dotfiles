@@ -1,14 +1,4 @@
 set tabstospaces
-set trimblanks
-
-set softwrap
-set atblanks
-set constantshow
-
-## Extra files:
 set backup
 set backupdir "~/.nano-backups"
 set historylog
-
-## Key bindings.
-bind ^Q exit all
