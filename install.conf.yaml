@@ -9,8 +9,8 @@
     ~/.gitignore: configs/.gitignore
     ~/.gitconfig: configs/.gitconfig 
     ~/.config/fish/config.fish: configs/config.fish 
-    ~/.face: assets/.face
-    ~/.background: assets/.background
+    ~/.bgr_cockpit.jpeg: assets/.bgr_cockpit.jpeg
+    ~/.bgr_throne.jpeg: assets/.bgr_throne.jpeg
 
 - create:
     - ~/.nano-backups
