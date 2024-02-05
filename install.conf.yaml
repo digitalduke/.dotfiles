@@ -8,7 +8,6 @@
     ~/.nanorc: configs/.nanorc
     ~/.gitignore: configs/.gitignore
     ~/.gitconfig: configs/.gitconfig 
-    ~/.config/fish/config.fish: configs/config.fish 
     ~/.editorconfig: configs/.editorconfig
 
 - create:
